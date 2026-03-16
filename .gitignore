@@ -1,0 +1,23 @@
+# API Keys & Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# ChromaDB local vector store (gets auto-generated when app runs)
+chroma_db/
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
