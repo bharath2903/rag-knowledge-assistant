@@ -35,7 +35,7 @@ The system uses **LLaMA 3 via Groq API** for fast, low-latency inference, **Hugg
 
 Users enter up to 3 real estate URLs, click **"Process URLs"**, and the assistant ingests, chunks, embeds, and indexes the content. They can then ask any question and receive a context-aware answer with source citations.
 
-!<img width="1426" height="743" alt="image" src="https://github.com/user-attachments/assets/0ae7a052-fc25-4b54-ac96-e9547a6989b5" />
+<img width="1444" height="688" alt="image" src="https://github.com/user-attachments/assets/02ac90d5-0fe8-468f-a6fe-7845a8f4293c" />
 
 
 ---
